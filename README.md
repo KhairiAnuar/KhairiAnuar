@@ -14,7 +14,7 @@
 
 ![Khairi Anuar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhairiAnuar&theme=aura_dark&count_private=true&show_icons=true&include_all_commits=true)
 
-⚡ Portofolio: [Site](https://khairi-anuar.vercel.app)
+⚡ Portofolio: [Site](https://khairi-anuar.vercel.app)</br>
 🔭 I write code.</br>
 💬 Ask me about a project you would like to do, or my projects </br>
 📫 How to reach me
