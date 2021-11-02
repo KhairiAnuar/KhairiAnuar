@@ -20,3 +20,4 @@
 - <a href="https://wa.me/6738194164">Whatsapp</a></br>
 - <a href="https://www.linkedin.com/in/khairi-anuar-09a024139/">Linkedin</a></br>
 - <a href="mailto:khairianuar164@gmail.com">Email me</a>
+⚡ Portofolio: https://khairi-anuar.vercel.app/ 
