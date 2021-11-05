@@ -14,12 +14,12 @@
 
 ![Khairi Anuar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhairiAnuar&theme=aura_dark&count_private=true&show_icons=true&include_all_commits=true)
 
-- ⚡ Portfolio: [Site](https://khairi-anuar.vercel.app)</br>
-- 🔭 I write code.</br>
+- ⚡ Portfolio: [Site](https://khairi-anuar.vercel.app)
+- 🔭 I write code.
 - 💻 Most used command git commit -m "Insert comment here"
-- 💬 Ask me about a project you would like to do, or my projects </br>
+- 💬 Ask me about a project you would like to do, or my projects
 - 📫 How to reach me
-  - <a href="https://wa.me/6738194164">Whatsapp</a></br>
-  - <a href="https://www.linkedin.com/in/khairi-anuar-09a024139/">Linkedin</a></br>
+  - <a href="https://wa.me/6738194164">Whatsapp</a>
+  - <a href="https://www.linkedin.com/in/khairi-anuar-09a024139/">Linkedin</a>
   - <a href="mailto:khairianuar164@gmail.com">Email me</a>
 
