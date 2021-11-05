@@ -16,6 +16,7 @@
 
 ⚡ Portfolio: [Site](https://khairi-anuar.vercel.app)</br>
 🔭 I write code.</br>
+💻 Most used command git commit -m "Insert comment here"
 💬 Ask me about a project you would like to do, or my projects </br>
 📫 How to reach me
 - <a href="https://wa.me/6738194164">Whatsapp</a></br>
