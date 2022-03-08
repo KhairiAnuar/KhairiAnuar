@@ -14,7 +14,6 @@
 
 ![Khairi Anuar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhairiAnuar&theme=aura_dark&count_private=true&show_icons=true&include_all_commits=true)
 
-- ⚡ Portfolio: [Site](https://khairi-anuar.vercel.app)
 - 🔭 I write code.
 - 💻 Most used command git commit -m "Insert comment here"
 - 💬 Ask me about a project you would like to do, or my projects
