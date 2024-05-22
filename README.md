@@ -20,5 +20,5 @@
 - 📫 How to reach me
   - <a href="https://wa.me/6738194164">Whatsapp</a>
   - <a href="https://www.linkedin.com/in/khairi-anuar-09a024139/">Linkedin</a>
-  - <a href="mailto:khairianuar164@gmail.com">Email me</a>
+  - <a href="mailto:khairiazmi.anuar@gmail.com">Email me</a>
 
